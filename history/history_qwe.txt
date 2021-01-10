@@ -1,0 +1,327 @@
+[ nick2 ] private [ Jeimc_Clark ]: asdfasdf
+[ nick1 ] private [ Jeimc_Clark ]: asdfasdf
+nick3 : hello
+nick1 : hello
+Jeimc_Clark :  fsadfasdf 
+Jeimc_Clark : a sdfasdf s
+Jeimc_Clark : asd fasd fsad
+aaa : sdf sdaf 
+aaa : as df sdaf
+[ aaa ] private [ Jeimc_Clark ]: as dfsdf asd
+aaa : as df asd
+Jeimc_Clark : 123 123 12
+Jeimc_Clark : 1 231 2312 3
+Jeimc_Clark : 1 2312 31
+aaa : sdf safd 
+Jeimc_Clark : dsfa sdf asd
+Jeimc_Clark : 12312 3123 123 123
+aaa : sd fsdfasdf asdf asdf
+aaa : asd fas dfasd f
+aaa : as df asdf sd 
+Jeimc_Clark : e rtwert wertw ertwe rt
+Jeimc_Clark : we rtwe rtwert wert wer
+rty : sdfg dsfg d
+rty : sdfg sdfgsdfg sdfg
+rty : sdf gsdf gds
+Jeimc_Clark : as dfsad 
+Jeimc_Clark : as dfsad f
+Jeimc_Clark : q sdr sdfg
+[ aaa ] private [ Jeimc_Clark ]: hg jfghj
+aaa : 123123 123123 12312
+Jeimc_Clark : 222222222 2 2 2 22 2 
+aaa : as dfsad f
+Jeimc_Clark : asdf asd f
+Jeimc_Clark : asdf sdf
+[ aaa ] private [ Jeimc_Clark ]: asd asd as
+[ aaa ] private [ Jeimc_Clark ]: asdf sadf asd
+
+[ Jeimc_Clark ]: sdfasdf
+[ Jeimc_Clark ]: as
+[ Jeimc_Clark ]: fas
+[ Jeimc_Clark ]: fa
+[ Jeimc_Clark ]: sf
+[ Jeimc_Clark ]: asdf
+[ Jeimc_Clark ]: g
+[ Jeimc_Clark ]: trgh
+[ Jeimc_Clark ]: rdtjh
+[ Jeimc_Clark ]: yk
+[ Jeimc_Clark ]: uil
+[ Jeimc_Clark ]: kt
+[ Jeimc_Clark ]: jsdgfd
+[ nick2 ] private [ Jeimc_Clark ]: asdfasdf
+[ nick1 ] private [ Jeimc_Clark ]: asdfasdf
+nick3 : hello
+nick1 : hello
+Jeimc_Clark :  fsadfasdf 
+Jeimc_Clark : a sdfasdf s
+Jeimc_Clark : asd fasd fsad
+aaa : sdf sdaf 
+aaa : as df sdaf
+[ aaa ] private [ Jeimc_Clark ]: as dfsdf asd
+aaa : as df asd
+Jeimc_Clark : 123 123 12
+Jeimc_Clark : 1 231 2312 3
+Jeimc_Clark : 1 2312 31
+aaa : sdf safd 
+Jeimc_Clark : dsfa sdf asd
+Jeimc_Clark : 12312 3123 123 123
+aaa : sd fsdfasdf asdf asdf
+aaa : asd fas dfasd f
+aaa : as df asdf sd 
+Jeimc_Clark : e rtwert wertw ertwe rt
+Jeimc_Clark : we rtwe rtwert wert wer
+rty : sdfg dsfg d
+rty : sdfg sdfgsdfg sdfg
+rty : sdf gsdf gds
+Jeimc_Clark : as dfsad 
+Jeimc_Clark : as dfsad f
+Jeimc_Clark : q sdr sdfg
+[ aaa ] private [ Jeimc_Clark ]: hg jfghj
+aaa : 123123 123123 12312
+Jeimc_Clark : 222222222 2 2 2 22 2 
+aaa : as dfsad f
+Jeimc_Clark : asdf asd f
+Jeimc_Clark : asdf sdf
+[ aaa ] private [ Jeimc_Clark ]: asd asd as
+[ aaa ] private [ Jeimc_Clark ]: asdf sadf asd
+Jeimc_Clark : sdfasdf
+Jeimc_Clark : as
+Jeimc_Clark : fas
+Jeimc_Clark : fa
+Jeimc_Clark : sf
+Jeimc_Clark : asdf
+Jeimc_Clark : g
+Jeimc_Clark : trgh
+Jeimc_Clark : rdtjh
+Jeimc_Clark : yk
+Jeimc_Clark : uil
+Jeimc_Clark : kt
+Jeimc_Clark : jsdgfd
+
+[ nick2 ] private [ John_Connor ]: asdfasdf
+[ nick1 ] private [ John_Connor ]: asdfasdf
+nick3 : hello
+nick1 : hello
+John_Connor :  fsadfasdf 
+John_Connor : a sdfasdf s
+John_Connor : asd fasd fsad
+aaa : sdf sdaf 
+aaa : as df sdaf
+[ aaa ] private [ John_Connor ]: as dfsdf asd
+aaa : as df asd
+John_Connor : 123 123 12
+John_Connor : 1 231 2312 3
+John_Connor : 1 2312 31
+aaa : sdf safd 
+John_Connor : dsfa sdf asd
+John_Connor : 12312 3123 123 123
+aaa : sd fsdfasdf asdf asdf
+aaa : asd fas dfasd f
+aaa : as df asdf sd 
+John_Connor : e rtwert wertw ertwe rt
+John_Connor : we rtwe rtwert wert wer
+rty : sdfg dsfg d
+rty : sdfg sdfgsdfg sdfg
+rty : sdf gsdf gds
+John_Connor : as dfsad 
+John_Connor : as dfsad f
+John_Connor : q sdr sdfg
+[ aaa ] private [ John_Connor ]: hg jfghj
+aaa : 123123 123123 12312
+John_Connor : 222222222 2 2 2 22 2 
+aaa : as dfsad f
+John_Connor : asdf asd f
+John_Connor : asdf sdf
+[ aaa ] private [ John_Connor ]: asd asd as
+[ aaa ] private [ John_Connor ]: asdf sadf asd
+
+[ nick2 ] private [ John_Connor ]: asdfasdf
+[ nick1 ] private [ John_Connor ]: asdfasdf
+nick3 : hello
+nick1 : hello
+John_Connor :  fsadfasdf 
+John_Connor : a sdfasdf s
+John_Connor : asd fasd fsad
+aaa : sdf sdaf 
+aaa : as df sdaf
+[ aaa ] private [ John_Connor ]: as dfsdf asd
+aaa : as df asd
+John_Connor : 123 123 12
+John_Connor : 1 231 2312 3
+John_Connor : 1 2312 31
+aaa : sdf safd 
+John_Connor : dsfa sdf asd
+John_Connor : 12312 3123 123 123
+aaa : sd fsdfasdf asdf asdf
+aaa : asd fas dfasd f
+aaa : as df asdf sd 
+John_Connor : e rtwert wertw ertwe rt
+John_Connor : we rtwe rtwert wert wer
+rty : sdfg dsfg d
+rty : sdfg sdfgsdfg sdfg
+rty : sdf gsdf gds
+John_Connor : as dfsad 
+John_Connor : as dfsad f
+John_Connor : q sdr sdfg
+[ aaa ] private [ John_Connor ]: hg jfghj
+aaa : 123123 123123 12312
+John_Connor : 222222222 2 2 2 22 2 
+aaa : as dfsad f
+John_Connor : asdf asd f
+John_Connor : asdf sdf
+[ aaa ] private [ John_Connor ]: asd asd as
+[ aaa ] private [ John_Connor ]: asdf sadf asd
+
+[ John_Connor ]: rvdfavsdf
+[ John_Connor ]: asdfvsad
+[ John_Connor ]: f
+[ John_Connor ]: fvas
+[ John_Connor ]: fv
+[ John_Connor ]: s
+[ John_Connor ]: e
+[ John_Connor ]: nty
+[ John_Connor ]: un
+[ John_Connor ]: yt
+[ John_Connor ]: yunt
+[ John_Connor ]: yunt
+[ John_Connor ]: yun
+[ John_Connor ]: ue
+[ John_Connor ]: by
+[ John_Connor ]: et
+[ John_Connor ]: gt
+[ John_Connor ]: t
+[ John_Connor ]: kui
+[ John_Connor ]: ghjk
+[ John_Connor ]: hj
+[ John_Connor ]: kh
+[ John_Connor ]: jkh
+[ John_Connor ]: jk
+[ John_Connor ]: hk
+Ваш ник изменен на Stas
+[ Stas ]: asdadasdasd
+[ nick2 ] private [ Stas ]: asdfasdf
+[ nick1 ] private [ Stas ]: asdfasdf
+nick3 : hello
+nick1 : hello
+Stas :  fsadfasdf 
+Stas : a sdfasdf s
+Stas : asd fasd fsad
+aaa : sdf sdaf 
+aaa : as df sdaf
+[ aaa ] private [ Stas ]: as dfsdf asd
+aaa : as df asd
+Stas : 123 123 12
+Stas : 1 231 2312 3
+Stas : 1 2312 31
+aaa : sdf safd 
+Stas : dsfa sdf asd
+Stas : 12312 3123 123 123
+aaa : sd fsdfasdf asdf asdf
+aaa : asd fas dfasd f
+aaa : as df asdf sd 
+Stas : e rtwert wertw ertwe rt
+Stas : we rtwe rtwert wert wer
+rty : sdfg dsfg d
+rty : sdfg sdfgsdfg sdfg
+rty : sdf gsdf gds
+Stas : as dfsad 
+Stas : as dfsad f
+Stas : q sdr sdfg
+[ aaa ] private [ Stas ]: hg jfghj
+aaa : 123123 123123 12312
+Stas : 222222222 2 2 2 22 2 
+aaa : as dfsad f
+Stas : asdf asd f
+Stas : asdf sdf
+[ aaa ] private [ Stas ]: asd asd as
+[ aaa ] private [ Stas ]: asdf sadf asd
+Stas : rvdfavsdf
+Stas : asdfvsad
+Stas : f
+Stas : fvas
+Stas : fv
+Stas : s
+Stas : e
+Stas : nty
+Stas : un
+Stas : yt
+Stas : yunt
+Stas : yunt
+Stas : yun
+Stas : ue
+Stas : by
+Stas : et
+Stas : gt
+Stas : t
+Stas : kui
+Stas : ghjk
+Stas : hj
+Stas : kh
+Stas : jkh
+Stas : jk
+Stas : hk
+Stas : asdadasdasd
+
+[ nick2 ] private [ Stas ]: asdfasdf
+[ nick1 ] private [ Stas ]: asdfasdf
+nick3 : hello
+nick1 : hello
+Stas :  fsadfasdf 
+Stas : a sdfasdf s
+Stas : asd fasd fsad
+aaa : sdf sdaf 
+aaa : as df sdaf
+[ aaa ] private [ Stas ]: as dfsdf asd
+aaa : as df asd
+Stas : 123 123 12
+Stas : 1 231 2312 3
+Stas : 1 2312 31
+aaa : sdf safd 
+Stas : dsfa sdf asd
+Stas : 12312 3123 123 123
+aaa : sd fsdfasdf asdf asdf
+aaa : asd fas dfasd f
+aaa : as df asdf sd 
+Stas : e rtwert wertw ertwe rt
+Stas : we rtwe rtwert wert wer
+rty : sdfg dsfg d
+rty : sdfg sdfgsdfg sdfg
+rty : sdf gsdf gds
+Stas : as dfsad 
+Stas : as dfsad f
+Stas : q sdr sdfg
+[ aaa ] private [ Stas ]: hg jfghj
+aaa : 123123 123123 12312
+Stas : 222222222 2 2 2 22 2 
+aaa : as dfsad f
+Stas : asdf asd f
+Stas : asdf sdf
+[ aaa ] private [ Stas ]: asd asd as
+[ aaa ] private [ Stas ]: asdf sadf asd
+Stas : rvdfavsdf
+Stas : asdfvsad
+Stas : f
+Stas : fvas
+Stas : fv
+Stas : s
+Stas : e
+Stas : nty
+Stas : un
+Stas : yt
+Stas : yunt
+Stas : yunt
+Stas : yun
+Stas : ue
+Stas : by
+Stas : et
+Stas : gt
+Stas : t
+Stas : kui
+Stas : ghjk
+Stas : hj
+Stas : kh
+Stas : jkh
+Stas : jk
+Stas : hk
+Stas : asdadasdasd
+
